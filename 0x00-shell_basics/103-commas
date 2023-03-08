@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -xampl 
+ls -xamp 
