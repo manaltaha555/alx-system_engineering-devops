@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | uniq -u | wc -w
+ls -l $PATH | grep -c ^d
